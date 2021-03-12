@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+print("Hello Capstone Project Course!")
+
 # # Data Mining libraries
 
 # scrapy
